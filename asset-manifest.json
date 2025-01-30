@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/intern-react-movie-yrrah/static/css/main.f855e6bc.css",
-    "main.js": "/intern-react-movie-yrrah/static/js/main.8e6352ca.js",
+    "main.js": "/intern-react-movie-yrrah/static/js/main.9341ca30.js",
     "static/js/488.ef1609e4.chunk.js": "/intern-react-movie-yrrah/static/js/488.ef1609e4.chunk.js",
     "index.html": "/intern-react-movie-yrrah/index.html",
     "main.f855e6bc.css.map": "/intern-react-movie-yrrah/static/css/main.f855e6bc.css.map",
-    "main.8e6352ca.js.map": "/intern-react-movie-yrrah/static/js/main.8e6352ca.js.map",
+    "main.9341ca30.js.map": "/intern-react-movie-yrrah/static/js/main.9341ca30.js.map",
     "488.ef1609e4.chunk.js.map": "/intern-react-movie-yrrah/static/js/488.ef1609e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8e6352ca.js"
+    "static/js/main.9341ca30.js"
   ]
 }

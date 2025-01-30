@@ -8,7 +8,7 @@ const { Text } = Typography
 
 const MovieCard = ({ id, loading, key, title, year, rating, genres, large_cover_image, yt_trailer_code }) => {
     const handleReadMore = () => {
-        window.location.href = `/movies/${id}`;
+        window.location.href = `/intern-react-movie-yrrah/movies/${id}`;
     };
 
     return (

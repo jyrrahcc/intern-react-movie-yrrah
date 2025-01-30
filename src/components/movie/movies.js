@@ -37,7 +37,7 @@ const Movies = () => {
                 current={currentPage} 
                 total={totalMovies} 
                 pageSize={pageSize} 
-                onChange={handlePageChange} 
+                onChange={handlePageChange}
                 showSizeChanger 
                 onShowSizeChange={handlePageChange}
                 pageSizeOptions={['10', '20', '30', '40', '50']}

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Card, Col, Row, Typography, Image, Tag } from 'antd';
+import { Card, Typography, Tag } from 'antd';
 
 const MovieDetail = () => {
     const [movie, setMovie] = useState({});
